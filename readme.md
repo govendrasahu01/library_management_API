@@ -35,6 +35,8 @@ Urls:
 
 
 
+Explanation Video Link:  https://youtu.be/laNgMOgTBgg?si=A_L1r_IbIt8MvnSv
+
 📚 Library Management API Project Using Django Rest Framework (DRF) 📚
 
 Excited to share my latest project: a comprehensive Library Management API built with Django Rest Framework (DRF)! 🚀
